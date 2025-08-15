@@ -4,7 +4,7 @@ MCP for scraping web page with browser use and retrieving their content in eithe
 
 ## Tools
 
-### =scrape
+### scrape
 
 Scrape web page with browser use.
 
