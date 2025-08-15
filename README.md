@@ -1,4 +1,4 @@
-# browser-scraper MCP
+# browser-scraper
 
 MCP for scraping web page with browser use and retrieving their content in either **Markdown** format.
 
